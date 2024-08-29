@@ -1,1 +1,115 @@
-# MathAndPhysForGame
+# 요원양성소( AgentTrainingCenter)
+
+<h6>인공지능과 Unity ML Agents에 스터디</h6>
+<p>명지전문대학 학생들이 진로탐색프로젝트로 진행한 도전과제입니다.</p>
+
+|송종익  | 김장후 | 김정연 | 송도영 |
+|------|------|------|------|
+| 소콘21| 소콘21 |  소콘23|  소콘23|
+
+<h3>주차별 계획 및 진행사항</h3>
+
+# 1주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 지도교수 면담 with 정지영 교수님
+- 일정 2: Git, Github(기본 명령어와 project, discussions, issues 등), fork 클라이언트에 대한 내용학습 및 발제  
+</details>
+
+# 2주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 3주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 4주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 5주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 6주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 7주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 8주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 9주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 10주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 11주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 12주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 13주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 14주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
+
+# 15주차 일정
+<details>
+<summary>상세 내용 보기</summary>
+- 일정 1: 내용
+- 일정 2: 내용
+</details>
