@@ -1,7 +1,7 @@
 # 요원양성소( AgentTrainingCenter)
 
 <h6>인공지능과 Unity ML Agents에 스터디</h6>
-<p>명지전문대학 학생들이 진로탐색프로젝트로 진행한 도전과제입니다.</p>
+<p>명지전문대학 진로탐색프로젝트</p>
 
 |송종익  | 김장후 | 김정연 | 송도영 |
 |------|------|------|------|
@@ -10,11 +10,16 @@
 <h3>주차별 계획 및 진행사항</h3>
 
 # 1주차 일정
-<details>
-<summary>상세 내용 보기</summary>
-- 일정 1: 지도교수 면담 with 정지영 교수님
-- 일정 2: Git, Github(기본 명령어와 project, discussions, issues 등), fork 클라이언트에 대한 내용학습 및 발제  
-</details>
+
+<h3>PLAN</h3> <br>
+  지도교수 면담 with 정지영 교수님 <br>
+  Git, Github(기본 명령어와 project, discussions, issues 등), fork 클라이언트에 대한 내용학습 및 발제  
+<h3>DO</h3> <br>
+  -9월 2일 월요일 17시부터 약 한 시간량 면담을 통해 무엇을 어느 정도 수준으로, 어떻게 공부할지 가이드라인을 잡음.<br>
+  -교내 Unity ML Agents 특강과 개발자에게 필요한 Git, Github 등에 대해 개인학습 후 정리 <br>
+  -미팅은 2, 3주에 한번씩!<br>
+
+
 
 # 2주차 일정
 <details>
